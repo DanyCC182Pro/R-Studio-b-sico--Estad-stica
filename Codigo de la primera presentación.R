@@ -1,4 +1,3 @@
-# Daniel Esteban Cubillos Castiblanco 614221022 Presentación 05/08/2024
 data29j <- base_de_datos_1
 
 
