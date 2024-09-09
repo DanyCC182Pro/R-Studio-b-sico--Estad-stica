@@ -1,4 +1,3 @@
-# Daniel Esteban Cubillos Castiblanco 614221022 Segunda Entrega
 # Sobre que es Curtosis , Asimetría , Desviación , Varianza, CV. (segmentado)
 # Los box plot Faltantes. 
 
