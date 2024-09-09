@@ -1,5 +1,3 @@
-# Daniel Esteban Cubillos Castiblanco 614221022 Cualitativo 29-07-2024
-
 # Cargar las librerías necesarias
 install.packages("dplyr")
 library(dplyr)
